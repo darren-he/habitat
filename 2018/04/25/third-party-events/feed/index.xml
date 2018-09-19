@@ -11,11 +11,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-<<<<<<< HEAD
 	<lastBuildDate>Wed, 19 Sep 2018 21:16:51 +0000</lastBuildDate>
-=======
-	<lastBuildDate>Wed, 19 Sep 2018 02:28:02 +0000</lastBuildDate>
->>>>>>> 8760fa689a8a1c4d9b3edc2d770a743d1b5d9b08
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
