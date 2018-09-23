@@ -13,7 +13,11 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
+<<<<<<< HEAD
 	<lastBuildDate>Sun, 23 Sep 2018 02:25:38 +0000</lastBuildDate>
+=======
+	<lastBuildDate>Wed, 19 Sep 2018 21:12:17 +0000</lastBuildDate>
+>>>>>>> 22a8d027532bbc9bb074cf36bcd75ad7773122b4
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
